@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/wordcount1/static/js/main.83c44d5e.js",
+    "main.js": "/wordcount1/static/js/main.8aca5f25.js",
     "index.html": "/wordcount1/index.html",
-    "main.83c44d5e.js.map": "/wordcount1/static/js/main.83c44d5e.js.map"
+    "main.8aca5f25.js.map": "/wordcount1/static/js/main.8aca5f25.js.map"
   },
   "entrypoints": [
-    "static/js/main.83c44d5e.js"
+    "static/js/main.8aca5f25.js"
   ]
 }
