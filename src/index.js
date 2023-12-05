@@ -31,7 +31,7 @@ import  { useState } from 'react';
       <div>
         <label htmlFor="count">Enter your name:</label>
         <input
-          type="text"
+          type="texts"
           id="count"
           onChange={useEffect}
         />
